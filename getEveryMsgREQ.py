@@ -20,5 +20,5 @@ class getmsgcode():
         print msgcode
         return msgcode
 
-code=getmsgcode()
-code.requestcode()
+'''code=getmsgcode()
+code.requestcode()'''
